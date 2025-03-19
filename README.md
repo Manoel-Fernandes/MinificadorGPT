@@ -130,8 +130,6 @@ Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](L
 
 ## Agradecimentos
 
-Este projeto foi **totalmente desenvolvido com o auxílio do ChatGPT**, da OpenAI, que ajudou a criar o código, implementar as funcionalidades e até solucionar problemas durante o desenvolvimento. Sem a ajuda do ChatGPT, esse projeto não teria saído do papel!
+Este projeto foi **totalmente desenvolvido com o auxílio do ChatGPT** (auxílio nada, ele fez tudo, até o readme), da OpenAI, que ajudou a criar o código, implementar as funcionalidades e até solucionar problemas durante o desenvolvimento. Sem a ajuda do ChatGPT, esse projeto não teria saído do papel!
 
 ---
-
-Essa versão está mais organizada, e com certeza não deve causar erros ao ser lida pelo GitHub. Se você continuar recebendo erros, me avise, e podemos investigar mais a fundo! 😊
