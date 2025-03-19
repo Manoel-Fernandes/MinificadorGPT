@@ -1,5 +1,3 @@
----
-
 # Minificador de Arquivos Web
 
 **Minificador de Arquivos Web** é uma ferramenta desenvolvida em Python para ajudar a otimizar e reduzir o tamanho de arquivos web. O projeto suporta a minificação de **HTML**, **CSS**, **JavaScript (JS)**, **JSON** e **SVG**. Ele oferece uma interface de linha de comando simples e uma interface gráfica (GUI) baseada no **Tkinter**, permitindo ao usuário escolher facilmente os arquivos a serem minificados.
@@ -132,7 +130,8 @@ Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](L
 
 ## Agradecimentos
 
-Este projeto foi **totalmente desenvolvido com o auxílio (auxílio nada ele desenvolveu tudo, até o readme) do ChatGPT**, da OpenAI, que ajudou a criar o código, implementar as funcionalidades e até solucionar problemas durante o desenvolvimento. Sem a ajuda do ChatGPT, esse projeto não teria saído do papel!
+Este projeto foi **totalmente desenvolvido com o auxílio do ChatGPT**, da OpenAI, que ajudou a criar o código, implementar as funcionalidades e até solucionar problemas durante o desenvolvimento. Sem a ajuda do ChatGPT, esse projeto não teria saído do papel!
 
 ---
 
+Essa versão está mais organizada, e com certeza não deve causar erros ao ser lida pelo GitHub. Se você continuar recebendo erros, me avise, e podemos investigar mais a fundo! 😊
